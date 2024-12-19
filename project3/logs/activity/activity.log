@@ -1,0 +1,258 @@
+{"level":"info","message":"Creating new record in user_account table","timestamp":"11/29/2024, 11:37:17 AM"}
+{"level":"info","message":"Record created with id 1","timestamp":"11/29/2024, 11:37:17 AM"}
+{"level":"info","message":"existingUserAccount Ali","timestamp":"12/6/2024, 5:41:21 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"12/6/2024, 5:41:22 PM"}
+{"level":"info","message":"existingUserAccount Ali","timestamp":"12/6/2024, 8:13:50 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"12/6/2024, 8:13:50 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"12/7/2024, 11:26:07 AM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"12/7/2024, 11:55:12 AM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"12/7/2024, 12:01:42 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"12/7/2024, 12:03:36 PM"}
+{"level":"info","message":"Record created with id 4","timestamp":"12/7/2024, 12:03:36 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/7/2024, 12:12:24 PM"}
+{"level":"error","message":"chishti already has an account","timestamp":"12/8/2024, 5:58:44 PM"}
+{"level":"info","message":"User with userId undefined not found.","timestamp":"12/8/2024, 6:00:06 PM"}
+{"level":"error","message":"undefined does not have an account, need to register.","timestamp":"12/8/2024, 6:50:39 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"12/8/2024, 6:51:07 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"12/8/2024, 6:58:16 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"12/8/2024, 7:23:31 PM"}
+{"level":"error","message":"chishti already has an account","timestamp":"12/8/2024, 7:34:07 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"12/8/2024, 7:34:24 PM"}
+{"level":"info","message":"Record created with id 8","timestamp":"12/8/2024, 7:34:24 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"12/8/2024, 7:36:15 PM"}
+{"level":"info","message":"Record created with id 9","timestamp":"12/8/2024, 7:36:15 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"12/8/2024, 8:07:26 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"12/8/2024, 8:43:40 PM"}
+{"level":"info","message":"Record created with id 11","timestamp":"12/8/2024, 8:43:40 PM"}
+{"level":"info","message":"existingUserAccount chishti4","timestamp":"12/8/2024, 8:44:02 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"12/8/2024, 8:44:02 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 8:46:21 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 8:46:21 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 8:59:15 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 8:59:15 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 8:59:51 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 8:59:51 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 9:35:14 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 9:35:14 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:02:29 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:02:29 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:22:24 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:22:25 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:22:34 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:22:34 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:22:38 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:22:38 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:22:52 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:22:52 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:26:23 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:26:23 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:26:31 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:26:31 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:29:20 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:30:35 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:31:17 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"12/8/2024, 10:39:11 PM"}
+{"level":"info","message":"Record created with id 12","timestamp":"12/8/2024, 10:39:12 PM"}
+{"level":"info","message":"existingUserAccount chishti3","timestamp":"12/8/2024, 10:39:26 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"12/8/2024, 10:39:26 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:39:28 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/8/2024, 10:39:28 PM"}
+{"level":"info","message":"existingUserAccount chishti3","timestamp":"12/15/2024, 11:45:08 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"12/15/2024, 11:45:08 AM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 11:45:19 AM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 11:45:19 AM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 12:06:57 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 12:12:26 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 12:12:26 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 12:12:31 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 12:12:31 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 12:12:36 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 12:12:36 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 2:46:02 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 2:46:27 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 2:46:27 PM"}
+{"level":"info","message":"User with userId undefined not found.","timestamp":"12/15/2024, 2:47:05 PM"}
+{"level":"info","message":"User with userId undefined not found.","timestamp":"12/15/2024, 2:47:10 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 2:48:30 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 2:48:51 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 2:48:51 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 2:48:55 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 2:48:55 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 3:55:20 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 3:55:20 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 3:55:29 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 3:55:29 PM"}
+{"level":"info","message":"existingUserAccount chishti3","timestamp":"12/15/2024, 4:12:20 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"12/15/2024, 4:12:21 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 4:12:24 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 4:12:24 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"12/15/2024, 5:27:40 PM"}
+{"level":"info","message":"Record created with id 13","timestamp":"12/15/2024, 5:27:40 PM"}
+{"level":"info","message":"existingUserAccount chishti3","timestamp":"12/15/2024, 5:41:08 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"12/15/2024, 5:41:08 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 5:41:12 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 5:41:12 PM"}
+{"level":"info","message":"existingUserAccount chishti3","timestamp":"12/15/2024, 5:42:21 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"12/15/2024, 5:42:21 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 5:51:36 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 5:51:36 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 7:21:27 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 7:21:27 PM"}
+{"level":"info","message":"existingUserAccount chishti3","timestamp":"12/15/2024, 7:21:42 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"12/15/2024, 7:21:42 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 7:26:59 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 7:26:59 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 19:28:16 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 7:28:16 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 19:28:16 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 7:28:16 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 19:28:16 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 7:28:16 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 7:28:16 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 19:28:16 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 7:28:16 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 7:28:16 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 20:31:33 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 8:31:33 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 20:31:33 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 8:31:33 PM"}
+{"level":"info","message":"existingUserAccount chishti3","timestamp":"12/15/2024, 8:31:33 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"12/15/2024, 8:31:33 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 20:31:36 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 8:31:36 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 20:31:36 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 8:31:36 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 20:31:36 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 8:31:36 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 8:31:36 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 20:31:36 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 8:31:36 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 8:31:36 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 20:34:06 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 8:34:06 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 20:34:06 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 8:34:06 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 20:34:06 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 8:34:06 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 8:34:06 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 20:34:06 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 8:34:06 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 8:34:06 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:31:40 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:31:40 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:31:40 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:31:40 PM"}
+{"level":"info","message":"existingUserAccount chishti3","timestamp":"12/15/2024, 9:31:40 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"12/15/2024, 9:31:40 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:31:46 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:31:46 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:31:46 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:31:46 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:31:46 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:31:46 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 9:31:46 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:31:46 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:31:46 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 9:31:46 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:41:12 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:41:12 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:41:12 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:41:12 PM"}
+{"level":"info","message":"existingUserAccount chishti3","timestamp":"12/15/2024, 9:41:12 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"12/15/2024, 9:41:12 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:41:15 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:41:15 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:41:15 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:41:15 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:41:15 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:41:15 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 9:41:15 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:41:15 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:41:15 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 9:41:15 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:59:17 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:59:17 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:59:17 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:59:17 PM"}
+{"level":"error","message":"chisht3 does not have an account, need to register.","timestamp":"12/15/2024, 9:59:17 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:59:26 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:59:26 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:59:26 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:59:26 PM"}
+{"level":"info","message":"existingUserAccount chishti3","timestamp":"12/15/2024, 9:59:27 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"12/15/2024, 9:59:27 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:59:29 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:59:29 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:59:29 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:59:29 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:59:29 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:59:29 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 9:59:29 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 21:59:29 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 9:59:29 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 9:59:29 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:01:18 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:01:18 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:01:18 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:01:18 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:09:26 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:09:26 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:09:26 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:09:26 PM"}
+{"level":"info","message":"existingUserAccount chishti3","timestamp":"12/15/2024, 10:09:26 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"12/15/2024, 10:09:26 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:09:31 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:09:31 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:09:31 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:09:31 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:09:31 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:09:31 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:09:31 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:09:31 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:09:31 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:09:31 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:10:10 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:10:10 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:10:10 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:10:10 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:10:10 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:10:10 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:10:10 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:10:10 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:10:10 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:10:10 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:10:27 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:10:27 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:10:27 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:10:27 PM"}
+{"level":"info","message":"existingUserAccount chishti3","timestamp":"12/15/2024, 10:10:27 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"12/15/2024, 10:10:27 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:10:31 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:10:31 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:10:31 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:10:31 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:10:31 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:10:31 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:10:31 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:10:31 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:10:31 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:10:31 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:16:09 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:16:09 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:16:09 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:16:09 PM"}
+{"level":"info","message":"existingUserAccount chishti3","timestamp":"12/15/2024, 10:16:09 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"12/15/2024, 10:16:09 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:16:12 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:16:12 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:16:12 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:16:12 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:16:12 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:16:12 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:16:12 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:16:12 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:16:12 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:16:12 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:18:13 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:18:13 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:18:13 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:18:13 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:18:13 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:18:13 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:18:13 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:18:13 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:18:13 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:18:13 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:19:18 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:19:18 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:19:18 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:19:18 PM"}
+{"level":"info","message":"existingUserAccount chishti3","timestamp":"12/15/2024, 10:19:18 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"12/15/2024, 10:19:18 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:19:21 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:19:21 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:19:21 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:19:21 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:19:21 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:19:21 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:19:21 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:19:21 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:19:21 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:19:21 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:26:16 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:26:16 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:26:16 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:26:16 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:26:16 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:26:16 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:26:17 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:26:17 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:26:17 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:26:17 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:26:46 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:26:46 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:26:46 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:26:46 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:33:46 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:33:46 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:33:46 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:33:46 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:33:46 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:34:34 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:34:34 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:34:34 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:34:34 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:39:00 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:39:00 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:39:01 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:39:01 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:45:14 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:45:14 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:45:14 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:45:14 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:45:14 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:46:02 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:46:02 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:46:02 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:46:02 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:46:20 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:46:20 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:46:20 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:46:20 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:46:20 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:46:20 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:46:20 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:46:20 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:46:20 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:46:20 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:48:37 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:48:37 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:48:37 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:48:37 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"12/15/2024, 10:48:37 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:55:33 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:55:33 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:55:33 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:55:33 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:55:50 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:55:50 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:55:50 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:55:50 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:55:50 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:55:50 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:55:50 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:55:50 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:59:07 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:59:07 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:59:07 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:59:07 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:59:07 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:59:07 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 22:59:07 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 10:59:07 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 23:18:17 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 11:18:17 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 23:18:17 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 11:18:17 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 23:18:17 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 11:18:17 PM"}
+{"level":"info","message":"existingUserAccountDetails Ali","timestamp":"12/15/2024, 11:18:17 PM"}
+{"level":"info","message":"A new request received at Sun Dec 15 2024 23:18:17 GMT-0600 (Central Standard Time)","timestamp":"12/15/2024, 11:18:17 PM"}
+{"level":"info","message":"existingUserAccountDetails Ali","timestamp":"12/15/2024, 11:18:17 PM"}
